@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Pablo Amundarain — Full Stack Developer" />
+  <img src="./banner_pablo_amundarain.png" alt="Pablo Amundarain — Full Stack Developer" />
 </p>
 
 <!-- Encabezado animado -->
