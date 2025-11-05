@@ -67,7 +67,8 @@
 ### 📫 Contacto  
 
 📧 **Correo:** [amundarainp@gmail.com](mailto:amundarainp@gmail.com)  
-💼 **LinkedIn:** [Pablo Amundarain](https://www.linkedin.com/in/pablo-amundarain)  
+💼 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo_Amundarain-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/pablo-amundarain)
+  
 🌐 **Portfolio:** [amundarainp.github.io](https://amundarainp.github.io)
 
 ---
