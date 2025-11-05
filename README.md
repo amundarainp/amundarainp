@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Pablo Amundarain — Full Stack Developer" />
+</p>
+
 <!-- Encabezado animado -->
 <h1 align="center">👋 ¡Hola! Soy Pablo Amundarain</h1>
 <h3 align="center">💻 Full Stack Developer en formación | Estudiante en Soy Henry</h3>
